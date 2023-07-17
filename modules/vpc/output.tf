@@ -1,5 +1,5 @@
 # ------------------------------
-# output.tf
+# /module/vpc/output.tf
 # ------------------------------
 output "vpc_id" {
   description = "VPC ID"
